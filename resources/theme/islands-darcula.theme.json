@@ -1,0 +1,76 @@
+{
+  "name": "Islands Darcula - NsF Mod",
+  "dark": true,
+  "author": "NosefU",
+  "colors": {
+    "tw_header_bg": "#3d3f41",
+    "tw_bg": "#3d3f41",
+    "mw_bg": "#4f5254"
+  },
+  "ui": {
+    "Islands": 1,
+    "Island": {
+      "borderColor": "mw_bg",
+      "arc": "20"
+    },
+    "MainWindow": {
+      "background": "mw_bg",
+      "Tab.selectedBackground": "tw_header_bg"
+    },
+    "MainToolbar": {
+      "background": "mw_bg",
+      "inactiveBackground": "mw_bg",
+      "borderColor": "mw_bg"
+    },
+    "ToolWindow": {
+      "background": "tw_bg",
+      "Stripe.borderColor": "mw_bg",
+      "Stripe.background": "mw_bg",
+      "Header.background": "tw_header_bg",
+      "Header.inactiveBackground": "tw_header_bg"
+    },
+
+    "StatusBar.borderColor": "mw_bg",
+    "Editor.SearchField.background": "tw_bg",
+    "Button.default.shadowColor": "tw_bg",
+    "EditorTabs.background": "tw_bg",
+    "Table.background": "tw_bg",
+    "Panel.background": "tw_bg",
+    "Tree.background": "tw_bg",
+    "VersionControl": {
+      "Log.Commit.currentBranchBackground": "tw_bg",
+      "Log.Commit.unmatchedForeground": "#8f8f8f",
+      "Log.Commit.Reference.foreground": "#aaaaaa"
+    },
+    "Borders.color": "mw_bg",
+    "ScrollBar": {
+      "thumbColor": "#4c5052",
+      "thumbBorderColor": "#4c5052",
+      "hoverThumbColor": "#666a6c",
+      "hoverThumbBorderColor": "#666a6c",
+      "trackColor": "tw_bg",
+      "hoverTrackColor": "tw_bg",
+      "background": "tw_bg",
+      "Transparent": {
+        "thumbColor": "#4c5052",
+        "thumbBorderColor": "#4c5052",
+        "hoverThumbColor": "#666a6c",
+        "hoverThumbBorderColor": "#666a6c"
+      },
+      "Mac": {
+        "thumbColor": "#4c5052",
+        "thumbBorderColor": "#4c5052",
+        "hoverThumbColor": "#666a6c",
+        "hoverThumbBorderColor": "#666a6c",
+        "trackColor": "tw_bg",
+        "hoverTrackColor": "tw_bg",
+        "Transparent": {
+          "thumbColor": "#4c5052",
+          "thumbBorderColor": "#4c5052",
+          "hoverThumbColor": "#666a6c",
+          "hoverThumbBorderColor": "#666a6c"
+        }
+      }
+    }
+  }
+}
